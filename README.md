@@ -139,4 +139,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, Joblib.
 ## Author
 
 **Surya Rohila**
-_Add your LinkedIn / email here._
+www.linkedin.com/in/surya-rohila-493779110
