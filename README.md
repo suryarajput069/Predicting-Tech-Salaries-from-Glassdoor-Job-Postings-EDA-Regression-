@@ -2,7 +2,7 @@
 
 An end-to-end data science project (EDA + regression) built as an AlmaBetter capstone. It uses Glassdoor job postings from 2017-2018 to understand what drives salary in data and analytics roles, and to predict the average annual salary of a posting.
 
-**Notebook:** `Glassdoor_Salary_Prediction_Submission.ipynb`/n
+**Notebook:** `Glassdoor_Salary_Prediction_Submission.ipynb`
 
 **Colab link:** https://colab.research.google.com/drive/1ePZrg6TfZQ7Yz72aGMacFvEXf1Tf2Jlu?usp=sharing
 
