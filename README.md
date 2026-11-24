@@ -101,22 +101,12 @@ Test set = 94 postings. Training set = 373 postings. Salaries are in $K.
 
 ## How to run
 
-**Option 1: Google Colab (easiest)**
+Google Colab (easiest)**
 
 1. Open the notebook in Colab.
 2. Run the cells in order (Runtime, then Run all).
 3. When asked, upload `glassdoor_jobs.csv`.
 
-**Option 2: locally**
-
-```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
-pip install pandas numpy matplotlib seaborn scipy scikit-learn joblib jupyter
-jupyter notebook Glassdoor_Salary_Prediction_Submission.ipynb
-```
-
-Keep `glassdoor_jobs.csv` in the same folder as the notebook.
 
 ## Tech stack
 
